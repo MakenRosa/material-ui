@@ -46,7 +46,7 @@ overrides:
   '@babel/preset-react': '^7.28.5'
   '@babel/preset-typescript': '^7.28.5'
   '@babel/runtime': '^7.29.2'
-  '@types/node': '20.19.39'
+  '@types/node': '20.19.43'
   cross-fetch: '^4.1.0'
   '@pigment-css/react': '0.0.31'
   '@pigment-css/unplugin': '0.0.31'
